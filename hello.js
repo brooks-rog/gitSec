@@ -1,1 +1,1 @@
-console.log ("rise and shine")
+console.log ("rise or shine")
